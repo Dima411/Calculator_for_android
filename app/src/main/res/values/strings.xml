@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="app_title_settings">Settings</string>
+    <string name="app_title_theme_settings">Theme</string>
+    <string name="app_title_language_settings">Language</string>
+    <string name="app_text_Gratitude">
+        Dear user, Thank you sincerely for downloading my application! I appreciate your interest and hope that it will bring you a lot of benefits. My goal in creating this app was to provide you with a tool that would assist you in your daily activities and help you solve current tasks. I am confident that you will find it useful and efficient.
+    </string>
+    <string name="app_name_settings_theme_light">Light</string>
+    <string name="app_name_settings_theme_black">Dark</string>
+    <string name="app_name_settings_language_uk">UK</string>
+    <string name="app_name_settings_language_en">EN</string>
+</resources>

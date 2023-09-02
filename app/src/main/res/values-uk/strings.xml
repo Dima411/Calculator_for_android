@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Калькулятор</string>
+    <string name="app_title_settings">Налаштування</string>
+    <string name="app_title_theme_settings">Тема</string>
+    <string name="app_title_language_settings">Мова</string>
+    <string name="app_text_Gratitude">
+        Дорогий користувач! Щиро дякую тобі за завантаження мого застосунку! Я вдячний за твою зацікавленість і сподіваюся, що він принесе тобі багато користі. Моя мета при створенні цього застосунку була надати тобі інструмент, який допоможе у щоденній діяльності та вирішенні поточних завдань. Я впевнений, що ти знайдеш його корисним та ефективним.
+    </string>
+    <string name="app_name_settings_theme_light">Світла</string>
+    <string name="app_name_settings_theme_black">Темна</string>
+    <string name="app_name_settings_language_uk">UK</string>
+    <string name="app_name_settings_language_en">EN</string>
+</resources>
